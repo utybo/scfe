@@ -1,0 +1,11 @@
+out
+build
+bin
+obj
+.DS_Store
+.idea
+*.user
+packages
+.vs
+app.config
+.vscode
